@@ -1,0 +1,37 @@
+var Moviearr[]={
+  "movie":"aruvi",
+  "year":2017,
+  "ratings":"5",
+  "language":"Tamil",
+},
+{
+  "movie":"mersal",
+  "year":2017,
+  "ratings":"4.5",
+  "language":"Tamil",
+},
+{
+  "movie":"ae dil hai mushqil",
+  "year":2067,
+  "ratings":"4.5",
+  "language":"hindi",
+},
+{
+  "movie":"vivegam",
+  "year":2017,
+  "ratings":"3",
+  "language":"Tamil",
+},
+{
+  "movie":"race gurram",
+  "year":2015,
+  "ratings":"4",
+  "language":"Telugu",
+},
+{
+  "movie":"beauty and the beast",
+  "year":2016,
+  "ratings":"4",
+  "language":"English",
+},
+}

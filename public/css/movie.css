@@ -1,0 +1,122 @@
+.logo{
+  width:200px;
+}
+.fright{
+  float: right;
+}
+
+.fleft{
+  float: left;
+}
+.clearfix{
+  clear: both;
+}
+body{
+  font-family: 'Lato',sans-serif;
+  background-color: #442D4B;
+  color: white;
+}
+header{
+  padding: 40px;
+  height: 40px;
+}
+header ul li{
+  display: inline-block;
+  padding: 10px 15px;
+}
+header ul li a{
+  color: #ffcb58;
+  text-decoration: none;
+  font-size: 13px;
+}
+footer{
+  background-color: #000000;
+  height: :40px;
+  padding: 40px;
+}
+.add_movie_form{
+  width: 500px;
+margin: 0 auto;
+}
+.add_movie_form h2{
+  text-align: center;
+  font-size: 28px;
+  margin-bottom: 20px;
+}
+.add_movie_form label,.add_movie_form input{
+  display: block;
+}
+.add_movie_form input,.add_movie_form textarea,.add_movie_form select{
+  width: 100%;
+  background-color: #442D4B;
+  border: 1px solid white;
+  margin: 7px 0 15px;
+  color: white;
+  padding: 0 5px;
+  font-size: 19px;
+  font-family: inherit;
+}
+.add_movie_form input{
+  height: 40px;
+}
+#but{
+  background-color: #ff3b2e;
+}
+.divide{
+  color: white;
+  width: 50%;
+  padding-left: 10px;
+  display: inline-block;
+  box-sizing: border-box;
+
+}
+.language_div{
+  padding-left: 0;
+}
+footer img{
+  height: 30px;
+  width: 30px;
+  padding: 10px 10px;
+  display: inline-block;
+}
+section{
+    padding: 0 40px;
+    padding-bottom: 84px;
+}
+.category{
+    margin-bottom: 40px;
+}
+.categoryName {
+    font-size: 1.8rem;
+    font-weight: 100;
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.movie {
+    margin-bottom: 10px;
+    width: 20%;
+}
+
+.movie .poster {
+    width: 180px;
+    height: 230px;
+    overflow: hidden;
+    /* margin: 0 auto; */
+    margin-bottom: 15px;
+}
+
+.poster img{
+    width: 100%;
+    height: auto;
+    max-height: 100%;
+    max-width: 100%;
+}
+.details {
+    width: 180px;
+    /* margin: 0 auto; */
+}
+.details .yearOfRelease {
+    margin: 5px 0;
+    font-size: 0.8rem;
+}
